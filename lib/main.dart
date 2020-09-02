@@ -189,7 +189,7 @@ class _UploaderState extends State<Uploader> {
     String filePath = 'videos/${DateTime.now()}.mp4';
 
     setState(() {
-      _uploadTask = _storage.ref().child(filePath).putFile(widget.file);
+      _uploadTask = _storage.ref().child(filePath).putFile(widget.file, StorageMetadata(contentType: 'video/mp4'));
     });
   }
 
