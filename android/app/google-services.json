@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "648098372998",
+    "firebase_url": "https://technical-test-86978.firebaseio.com",
+    "project_id": "technical-test-86978",
+    "storage_bucket": "technical-test-86978.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648098372998:android:ac30cba9e8c757857ba007",
+        "android_client_info": {
+          "package_name": "com.svelandiac.upload_video_to_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648098372998-5io23hv6j8ii4v3c1f77cdhl4j2d2out.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw4AVjqqyx3IPxmy-MiNbASdObUjXmflc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648098372998-5io23hv6j8ii4v3c1f77cdhl4j2d2out.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
